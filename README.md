@@ -10,7 +10,8 @@ lasercut designs
 166hp 3u monster base - perfect fit for 168hp skiff (10mm material)  
 168hp 6u skiff - modified design from nonlinearciruits for 6mm material  
   
-/panels/  
+/panels/
+as i want my racks all black, i had to replace some panels:)
 most panels were scanned from real ones and outlined in ai, some made from shared data  
   
 16n front+back panel  
