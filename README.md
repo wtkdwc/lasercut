@@ -23,11 +23,11 @@ BMC047 balanced outs - modified for 6.3 jacks - fits very tightly, maybe add hp 
 BMC049 attenuverting mixer - from bmc template with added holes  
 Doepfer A-119 external input  
 eowave space bug  
-erica synths polivoks vcfII
+erica synths polivoks vcfII  
 god's box humpback  
 hexinverter bd9  
 hexinverter mutant bassdrum  
-hexinverter mutant hihats
+hexinverter mutant hihats  
 hexinverter mutant snare  
 ladik m211 midi2gate  
 mxmxmx dual offset/attenuator  
