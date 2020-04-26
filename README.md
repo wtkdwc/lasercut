@@ -8,7 +8,7 @@ lasercut designs
 42hp 3u skiff v2 - with holes for futurlec dual power and moraydular small busboard (5mm material)  
 42hp 3u skiff v3 - with holes for mmi modular usbpower (5mm material)  
 166hp 3u monster base - perfect fit for 168hp skiff (10mm material)  
-168hp 6u skiff - modified design from nonlinearciruits for 6mm material
+168hp 6u skiff - modified design from nonlinearciruits for 6mm material  
 cheeks - 20° angled rail cheeks
   
 /panels/  
