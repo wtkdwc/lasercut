@@ -8,7 +8,8 @@ lasercut designs
 42hp 3u skiff v2 - with holes for futurlec dual power and moraydular small busboard (5mm material)  
 42hp 3u skiff v3 - with holes for mmi modular usbpower (5mm material)  
 166hp 3u monster base - perfect fit for 168hp skiff (10mm material)  
-168hp 6u skiff - modified design from nonlinearciruits for 6mm material  
+168hp 6u skiff - modified design from nonlinearciruits for 6mm material
+cheeks - 20° angled rail cheeks
   
 /panels/  
 as i want my racks all black, i had to replace some panels:)  
@@ -22,10 +23,12 @@ BMC047 balanced outs - modified for 6.3 jacks - fits very tightly, maybe add hp 
 BMC049 attenuverting mixer - from bmc template with added holes  
 Doepfer A-119 external input  
 eowave space bug  
+erica synths polivoks vcfII
 god's box humpback  
 hexinverter bd9  
 hexinverter mutant bassdrum  
-hexinverter mutant hihats  
+hexinverter mutant hihats
+hexinverter mutant snare  
 ladik m211 midi2gate  
 mxmxmx dual offset/attenuator  
 ryo penta  
